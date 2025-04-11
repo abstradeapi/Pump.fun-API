@@ -24,7 +24,7 @@ Read more on our API documentation to learn how to use these features. 📄
 
 ### Essential Links 🔗
 
-* **API Endpoint** 📍: [https://pumpapi.fun/api](https://pumpapi.fun/api) - Make API requests here
+* **API Endpoint** 📍: [https://pmpapi.fun/api](https://pmpapi.fun/api) - Make API requests here
 * **Documentation** 📄: [https://docs.pumpapi.fun/](https://docs.pumpapi.fun/) - Learn how to use our API
 
 ### Featured Endpoints 🎉
@@ -64,7 +64,7 @@ The possibilities are endless You can build almost anything based on your needs,
 
 API endpoint is:
 
-`https://pumpapi.fun/api`
+`https://pmpapi.fun/api`
 
 **Happy Hacking 💻**
 ---------------------
